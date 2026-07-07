@@ -14,7 +14,7 @@ open_to     = ["ML internships", "research labs", "freelance ML work"]
 ### 🔧 What I work with
 
 **ML & NLP** — PyTorch · TensorFlow · Scikit-learn · sentence-transformers · FAISS · Hugging Face
-**Data** — Python · pandas · NumPy
+**Data** — Python · pandas · NumPy <br>
 **Tooling** — Git · Linux · pytest · ROS Noetic
 
 I keep this list to what I've actually built with, not everything I've heard of.
