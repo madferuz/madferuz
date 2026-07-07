@@ -25,11 +25,6 @@ I keep this list to what I've actually built with, not everything I've heard of.
 
 **[campus-delivery-robot](https://github.com/madferuz/campus-delivery-robot)** — A ROS Noetic autonomous delivery robot (TurtleBot3 + Gazebo), built with a 7-person team. I owned the **navigation** package: a mission action server that orchestrates `move_base` to drive the robot to campus destinations, with live tf2-based progress feedback.
 
-### 📊 Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madferuz&show_icons=true&hide_border=true&theme=dark&count_private=true" height="160" alt="GitHub stats" />
-</div>
 
 ### 📫 Reach me
 
